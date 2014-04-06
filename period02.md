@@ -1,6 +1,6 @@
-Ruby入門以前（第3回 配列と繰り返し）
+Ruby入門以前（2時間目 配列と繰り返し）
 ===
-身近な問題を例に、Rubyのプログラムを書いてみましょう（https://github.com/johnny-miyake/ruby-seminar/blob/master/ruby-seminar02.md の続きです）。
+身近な問題を例に、Rubyのプログラムを書いてみましょう（[1時間目 計算と変数](period01.md)の続きです）。
 
 準備（フォルダの移動）
 -

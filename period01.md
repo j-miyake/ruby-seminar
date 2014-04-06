@@ -1,6 +1,6 @@
-Ruby入門以前（第2回 計算と変数）
+Ruby入門以前（1時間目 計算と変数）
 ===
-身近な問題を例に、Rubyのプログラムを書いてみましょう（https://github.com/johnny-miyake/ruby-seminar/blob/master/ruby-seminar01.md の続きです）。
+身近な問題を例に、Rubyのプログラムを書いてみましょう（[0時間目 最初のプログラム](period00.md)の続きです）。
 
 準備（フォルダの移動）
 -

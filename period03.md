@@ -1,6 +1,6 @@
-Ruby入門以前（第4回 ハッシュ）
+Ruby入門以前（3時間目 ハッシュ）
 ===
-身近な問題を例に、Rubyのプログラムを書いてみましょう（https://github.com/johnny-miyake/ruby-seminar/blob/master/ruby-seminar03.md の続きです）。
+身近な問題を例に、Rubyのプログラムを書いてみましょう（[2時間目 配列と繰り返し](period02.md)の続きです）。
 
 準備（フォルダの移動）
 -
