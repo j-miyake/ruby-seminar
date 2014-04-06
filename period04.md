@@ -32,18 +32,14 @@ Cheap!
 `if 〜 else`を応用して、Rubyで物語を書いてみましょう。まず、何も条件分岐のない物語を書いてみます。
 ```ruby
 puts "Tom is 10 years old."
-puts "Tom is hangly."
 puts "Tom goes to a restaurant."
-puts "Tom eats a dish of beef."
 puts "Tom is thirsty."
 puts "Tom drinks a grass of coke."
 ```
 上記を実行すると、以下のように表示されます。
 ```
 Tom is 10 years old.
-Tom is hangly.
 Tom goes to a restaurant.
-Tom eats a dish of beef.
 Tom is thirsty.
 Tom drinks a grass of coke.
 ```
