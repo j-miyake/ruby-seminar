@@ -39,11 +39,11 @@ irb(main):002:0>
 
 MacOSの方は、以下のように入力してください。
 ```
-cd /Users/xxxx/Desktop/ruby
+cd /Users/ユーザ名/Desktop/ruby
 ```
 Windowsの方は、以下のように入力してください。
 ```
-cd C:\Users\xxxx\Desktop\ruby
+cd C:\Users\ユーザ名\Desktop\ruby
 ```
 ###プログラムを書く
 移動できたら、プログラムを書いてみましょう。お好きなテキストエディタを開いて、以下のように書いてください。
