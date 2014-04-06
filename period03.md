@@ -70,7 +70,7 @@ Hanoi
 ```
 
 
-2. 上記のリストを以下のように見やすい形式で表示してください。こちらを参考にすると良いでしょう: http://www.rubylife.jp/ini/string/index5.html
+2. 上記のリストを以下のように見やすい形式で表示してください。こちらを参考にすると良いでしょう: http://www.namaraii.com/rubytips/?文字列#l11
 ```
 Indonasia: Jakarta
 Philippine: Manila
