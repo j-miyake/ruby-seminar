@@ -10,9 +10,9 @@ Ruby入門以前（4時間目 条件分岐）
 ```ruby
 apple = 200
 if apple > 100
-  puts("Expensive!")
+  puts "Expensive!"
 else
-  puts("Cheap!")
+  puts "Cheap!"
 end
 ```
 上記のプログラムは、appleが100円以上であれば "Expensive!"と表示し、そうでなければ "cheap!"と表示します。
@@ -31,12 +31,12 @@ Cheap!
 -
 `if 〜 else`を応用して、Rubyで物語を書いてみましょう。まず、何も条件分岐のない物語を書いてみます。
 ```ruby
-puts("Tom is 10 years old.")
-puts("Tom is hangly.")
-puts("Tom goes to a restaurant.")
-puts("Tom eats a dish of beef.")
-puts("Tom is thirsty.")
-puts("Tom drinks a grass of coke.")
+puts "Tom is 10 years old."
+puts "Tom is hangly."
+puts "Tom goes to a restaurant."
+puts "Tom eats a dish of beef."
+puts "Tom is thirsty."
+puts "Tom drinks a grass of coke."
 ```
 上記を実行すると、以下のように表示されます。
 ```
